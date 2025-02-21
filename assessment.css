@@ -1,5 +1,5 @@
 body {
-  background-color: #1D9BF0;
+  background-color: #04a6ed;
   color: #fdffff;
   width: 500px;
   margin-right: auto;
@@ -12,5 +12,5 @@ button {
   border-style: none;
 }
 input {
-  height: 25px;
+  height: 20px;
 }
